@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: studentapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jitendra
+Implementation-Vendor-Id: io.javaheart
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/studentapi
+Created-By: Maven Integration for Eclipse
+
