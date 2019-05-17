@@ -1,0 +1,59 @@
+Project name: studentapi
+Model class: Student
+	fields:sid=Student ID,
+	       sname=Student Name,
+	       std=Student standard,
+	       strm=Student Stream,
+
+Controller class: StudentController
+Repository class: StudentRepository
+	     
+
+Project name: productdataapi
+Model class: ProductData
+	fields:pid=Product ID,
+	       pname=Product Name,
+	       ptype=Product Type,
+	       pqty=Product Quantity,
+
+Controller class: ProductDataController
+Repository class: ProductDataRepository
+
+
+Project name: employeeapi
+Model class: Employee
+	fields:eid=Employee ID,
+	       ename=Employee Name,
+	       epost=Employee Position(post),
+	       edept=Employee Department,
+
+Controller class: EmployeeController
+Repository class: EmployeeRepository	  
+
+Project name: customerapi
+Model class: Customer
+	fields:cid=Customer ID,
+	       cname=Customer Name,
+	       caddress=Customer Address,
+	       cphon=Customer Phone No.,
+
+Controller class: CustomerController
+Repository class: CustomerRepository
+	  
+
+
+
+//
+Name:Jitendra Narayan Nayak
+
+Email:jitendranayak182@gmail.com
+
+Github:https://github.com/jitendra182/TSF-phase2-task
+
+LinkedIn Post:https://www.linkedin.com/feed/update/urn:li:activity:6535018908699758594
+
+YouTube:https://youtu.be/HygxXUlpXEw
+
+
+Thank you.
+
